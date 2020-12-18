@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		27534DB5257EC7F700B5CABC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 27534DB4257EC7F700B5CABC /* main.cpp */; };
+		27534DB5257EC7F700B5CABC /* hello.cc in Sources */ = {isa = PBXBuildFile; fileRef = 27534DB4257EC7F700B5CABC /* hello.cc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		27534DB1257EC7F700B5CABC /* hello */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hello; sourceTree = BUILT_PRODUCTS_DIR; };
-		27534DB4257EC7F700B5CABC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		27534DB4257EC7F700B5CABC /* hello.cc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hello.cc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		27534DB3257EC7F700B5CABC /* hello */ = {
 			isa = PBXGroup;
 			children = (
-				27534DB4257EC7F700B5CABC /* main.cpp */,
+				27534DB4257EC7F700B5CABC /* hello.cc */,
 			);
 			path = hello;
 			sourceTree = "<group>";
@@ -88,7 +88,7 @@
 		27534DA9257EC7F700B5CABC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1220;
+				LastUpgradeCheck = 1230;
 				TargetAttributes = {
 					27534DB0257EC7F700B5CABC = {
 						CreatedOnToolsVersion = 12.2;
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27534DB5257EC7F700B5CABC /* main.cpp in Sources */,
+				27534DB5257EC7F700B5CABC /* hello.cc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +239,7 @@
 		27534DB9257EC7F700B5CABC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S3RW48U55C;
 				ENABLE_HARDENED_RUNTIME = YES;
@@ -249,6 +250,7 @@
 		27534DBA257EC7F700B5CABC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = S3RW48U55C;
 				ENABLE_HARDENED_RUNTIME = YES;
