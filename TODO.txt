@@ -1,1 +1,2 @@
-issue001-macos-command-line-xcode-cplusplus-hello: Hello World command line program for macOS built using Xcode
+issue001-macos-command-line-xcode-cplusplus-hello: Hello World command line program for macOS built using C++ and Xcode
+issue002-macos-command-line-xcode-swift-hello: Hello World command line program for macOS built using Swift Xcode
