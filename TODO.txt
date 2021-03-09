@@ -2,3 +2,4 @@ issue001-macos-command-line-xcode-cplusplus-hello: Hello World command line prog
 issue002-macos-command-line-xcode-swift-hello: Hello World command line program for macOS built using Swift Xcode
 issue003-windows-command-line-nmake-cplusplus-hello: Hello World command line program for Windows built using C++/nmake [DONE]
 issue004-windows-command-line-visualstudio-cplusplus-hello: Hello World command line program for Windows built using C++/VisualStudio [DONE]
+issue005-java-console-gradle-hello: HelloWorld console app built using gradle [DONE]
