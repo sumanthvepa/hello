@@ -6,3 +6,4 @@ issue005-java-console-gradle-hello: HelloWorld console app built using gradle [D
 issue006-jvm-platform-refactor: Move 'java' projects into the jvm platform directory [DONE]
 issue007-jvm-groovy-console-gradle-hello: JVM/groovy/console/gradle version [DONE]
 issue008-python-console: Python/console version [DONE]
+issue009-nodejs-console: NodeJS/console version [DONE]
