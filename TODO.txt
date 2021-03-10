@@ -7,3 +7,4 @@ issue006-jvm-platform-refactor: Move 'java' projects into the jvm platform direc
 issue007-jvm-groovy-console-gradle-hello: JVM/groovy/console/gradle version [DONE]
 issue008-python-console: Python/console version [DONE]
 issue009-nodejs-console: NodeJS/console version [DONE]
+issue010-jvm-kotlin-console-gradle: JVM/kotlin/console/gradle version [DONE]
