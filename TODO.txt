@@ -8,4 +8,5 @@ issue007-jvm-groovy-console-gradle-hello: JVM/groovy/console/gradle version [DON
 issue008-python-console: Python/console version [DONE]
 issue009-nodejs-console: NodeJS/console version [DONE]
 issue010-jvm-kotlin-console-gradle: JVM/kotlin/console/gradle version [DONE]
-issue011-rename-cpp-to-cc: Use the .cc prefix for all C++ files
+issue011-rename-cpp-to-cc: Use the .cc prefix for all C++ files [DONE]
+issue012-macos-cplusplus-console-make: macos/C++/console/make version [DONE]
