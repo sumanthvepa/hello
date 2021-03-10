@@ -4,3 +4,4 @@ issue003-windows-command-line-nmake-cplusplus-hello: Hello World command line pr
 issue004-windows-command-line-visualstudio-cplusplus-hello: Hello World command line program for Windows built using C++/VisualStudio [DONE]
 issue005-java-console-gradle-hello: HelloWorld console app built using gradle [DONE]
 issue006-jvm-platform-refactor: Move 'java' projects into the jvm platform directory [DONE]
+issue007-jvm-groovy-console-gradle-hello: JVM/groovy/console/gradle version [DONE]
