@@ -15,3 +15,4 @@ issue014-gradlew-set-executable-bit: Set the executable bit for gradlew scripts 
 issue015-groovy-upgrade-to-3.0.7: Upgrade to groovy 3.0.7 [DONE]
 issue016-python-mkae-executable: Make the python script executable [DONE]
 issue017-add-nmake-pseudotargets: Add pseudotargets all and clean to nmake file [DONE]
+issue018-update-groovy-idea-project: Update the groovy IDEA project [DONE]
