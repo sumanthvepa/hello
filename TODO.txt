@@ -23,3 +23,4 @@ issue022-move-kotlin-hello-to-gradle-subdir: Move kotlin hello to gradle subdir 
 issue023-update-groovy-idea-project: Update the groovy IDEA project [DONE]
 issue024-update-macos-swift-console-project: Update the macos swift console project [DONE]
 issue025-update-env-command-path: Update env path from /bin/env to /usr/bin/env[DONE]
+issue026-update-package-lock-json: Update package-lock.json file format to the latest needed by npm [DONE]
