@@ -15,8 +15,9 @@ plugins {
 }
 
 repositories {
-    // Use JCenter for resolving dependencies.
-    jcenter()
+    // DO NOT use JCenter for resolving dependencies.
+    // jcenter() // DEPRECATED
+    mavenCentral()
 }
 
 dependencies {
