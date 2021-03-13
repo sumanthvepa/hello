@@ -19,4 +19,4 @@ issue018-update-groovy-idea-project: Update the groovy IDEA project [DONE]
 issue019-update-java-idea-project: Update the java IDEA project [DONE]
 issue020-kotlin-upgrade-to-1.4.31: Upgrade to kotlin 1.4.31 [DONE]
 issue021-update-kotlin-idea-project: Update the kotlin IDEA project [DONE]
-issue022-move-kotlin-hello-to-gradle-subdir: Move kotlin hello to gradle subdir 
+issue022-move-kotlin-hello-to-gradle-subdir: Move kotlin hello to gradle subdir [DONE]
