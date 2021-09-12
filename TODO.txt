@@ -26,3 +26,5 @@ issue025-update-env-command-path: Update env path from /bin/env to /usr/bin/env[
 issue026-update-package-lock-json: Update package-lock.json file format to the latest needed by npm [DONE]
 issue027-kotlin-remove-jcenter: Remove dependency on jcenter from kotlin version [DONE]
 issue028-move-windows-cplusplus-console-nmake-hello-to-subdir: Move Windows/cplusplus/console/nmake conde into subdir [DONE]
+issue029-jvm-groovy-gradle-console-upgrade-to-gradle-7.2: Upgrade gradle wrapper to 7.2
+
