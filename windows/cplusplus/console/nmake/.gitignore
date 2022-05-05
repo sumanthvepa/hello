@@ -1,4 +1,5 @@
-*.exe
-*.ilk
-*.obj
-*.pdb
+hello.exe
+hello.ilk
+hello.pdb
+vc140.pdb
+
