@@ -1,7 +1,7 @@
 issue033-upgrade-jvm-grovy-console-gradle-to-gradle-version-7.4.2:
-  Upgrade jvm/groovy/console/gradle/hello to gradle version 7.4.2
+  Upgrade jvm/groovy/console/gradle/hello to gradle version 7.4.2 [DONE]
 issue032-upgrade-jvm-java-console-gradle-to-gradle-version-7.4.2:
-  Upgrade jvm/java/console/gradle/hello to gradle version 7.4.2
+  Upgrade jvm/java/console/gradle/hello to gradle version 7.4.2 [DONE]
 issue031-upgrade-console-hello-to-visualstudio2022:
   Upgrade the console version of hello to Visual Studio 2022. [DONE]
 issue030-revere-todo.txt: Reverse the order of issues in TODO.txt [DONE]
