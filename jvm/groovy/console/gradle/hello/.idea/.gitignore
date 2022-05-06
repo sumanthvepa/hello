@@ -1,8 +1,1 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Datasource local storage ignored files
-/../../../../../../../../../../../../:\Users\svepa\Documents\Projects\hello\jvm\groovy\console\gradle\hello\.idea/dataSources/
-/dataSources.local.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+workspace.xml
