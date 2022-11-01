@@ -1,3 +1,4 @@
+issue034-ruby-console: Hello world in Ruby [DONE]
 issue033-upgrade-jvm-grovy-console-gradle-to-gradle-version-7.4.2:
   Upgrade jvm/groovy/console/gradle/hello to gradle version 7.4.2 [DONE]
 issue032-upgrade-jvm-java-console-gradle-to-gradle-version-7.4.2:
