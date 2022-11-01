@@ -1,0 +1,19 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "'Hello World Implemented in Pure NodeJs'",
+  "main": "hellows.mjs",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "m42@git:hello.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Sumanth Vepa",
+  "license": "SEE LICENSE IN LICENSE.txt"
+}
