@@ -1,3 +1,4 @@
+issue0036-readme: Update readme file with information an all implementations
 issue0035-node-web: Hello World using pure nodejs (no additional frameworks) [DONE]
 issue034-ruby-console: Hello world in Ruby [DONE]
 issue033-upgrade-jvm-grovy-console-gradle-to-gradle-version-7.4.2:
