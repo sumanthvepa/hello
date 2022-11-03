@@ -8,5 +8,45 @@ The platforms I'll be covering are listed below:
 (the list will be expanded as more platforms are covered)
 
 
-MacOS | Command Line | Xcode | C++
+MacOS | C++ | Xcode | Command Line
+==================================
 A command line hello world program built using Xcode.
+
+
+Build Instructions
+------------------
+
+Invocation
+----------
+
+
+NodeJS | Web | Pure(no frameworks)
+==================================
+A web service that returns plain text Hello World.
+
+Location
+--------
+node/web/pure
+
+Invocation 
+----------
+Start server (in location)
+  cd node/web/pure 
+  node hello.mjs
+Web access:
+http://hostname.domain.name:5000/
+(Make sure the port is accessible from the machine that your
+client -- either curl or a web browser is running on.)
+
+
+All OSes | Ruby | Command Line
+==============================
+A comand line program that prints hello world on the console
+
+Location
+--------
+ruby/console/
+
+Invocation
+----------
+ruby hello.rb
