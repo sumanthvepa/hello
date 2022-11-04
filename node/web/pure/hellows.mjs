@@ -27,10 +27,10 @@ const server = http.createServer((req, res) => {
 
 const address = '0.0.0.0';
 const port = 5000;
-
+const protocol = 'http';
 
 
 server.listen(port, address, () => {
   // TODO: Sent message to log instead of console
-  console.log(`HelloWS running at http://${os.hostname()}(${address}):${port}/`)
+  console.log(`HelloWS running at ${protocol}://${os.hostname()}(${address}):${port}/`)
 });
