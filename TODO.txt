@@ -1,3 +1,5 @@
+issue0038-hello-node-web-pure-move-into-subdir:
+  Move the project into its own sub-directory [DONE]
 issue0037-node-web-idea-support:
   Add IntellJ IDEA support for the project [DONE]
 issue0036-readme:
